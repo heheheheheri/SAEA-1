@@ -16,7 +16,7 @@ SAEA.Common 是SAEA项目中的工具类项目</Description>
 SAEA.Common 是SAEA项目中的工具类项目</PackageReleaseNotes>
     <RepositoryUrl>https://github.com/yswenli/SAEA</RepositoryUrl>
     <AssemblyVersion>4.5.1.2</AssemblyVersion>
-    <SignAssembly>true</SignAssembly>
+    <SignAssembly>false</SignAssembly>
     <AssemblyOriginatorKeyFile>SAEA.Sockets.pfx</AssemblyOriginatorKeyFile>
     <PackageId>SAEA.Common</PackageId>
     <PackageLicenseUrl>https://raw.githubusercontent.com/yswenli/SAEA/master/LICENSE</PackageLicenseUrl>

@@ -19,7 +19,7 @@ https://github.com/yswenli/SAEA</PackageReleaseNotes>
 https://github.com/yswenli/SAEA</Description>
     <RepositoryUrl>https://github.com/yswenli/SAEA</RepositoryUrl>
     <PackageTags>redis,redisclient,redisdrive,rediscluster,iocp,socket,tcp</PackageTags>
-    <SignAssembly>true</SignAssembly>
+    <SignAssembly>false</SignAssembly>
     <AssemblyOriginatorKeyFile>SAEA.Sockets.pfx</AssemblyOriginatorKeyFile>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <PackageLicenseUrl>https://raw.githubusercontent.com/yswenli/SAEA/master/LICENSE</PackageLicenseUrl>

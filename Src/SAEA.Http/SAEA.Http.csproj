@@ -11,7 +11,7 @@
     <PackageTags>webserver,httpserver,iocp,tcp,socket</PackageTags>
     <Version>4.5.1.2</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <SignAssembly>true</SignAssembly>
+    <SignAssembly>false</SignAssembly>
     <AssemblyOriginatorKeyFile>SAEA.Sockets.pfx</AssemblyOriginatorKeyFile>
     <RepositoryUrl>https://github.com/yswenli/SAEA</RepositoryUrl>
     <PackageLicenseUrl>https://raw.githubusercontent.com/yswenli/SAEA/master/LICENSE</PackageLicenseUrl>

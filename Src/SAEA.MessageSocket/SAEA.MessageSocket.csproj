@@ -16,7 +16,7 @@ https://github.com/yswenli/SAEA</Description>
 这是一个基于SAEA.Scokets的高性能消息服务器、客户端组件，消息使用pb压缩传输，消息支持私信、频道、群组等方式
 https://github.com/yswenli/SAEA</PackageReleaseNotes>
     <RepositoryUrl>https://github.com/yswenli/SAEA</RepositoryUrl>
-    <SignAssembly>true</SignAssembly>
+    <SignAssembly>false</SignAssembly>
     <AssemblyOriginatorKeyFile>SAEA.Sockets.pfx</AssemblyOriginatorKeyFile>
     <PackageLicenseUrl>https://raw.githubusercontent.com/yswenli/SAEA/master/LICENSE</PackageLicenseUrl>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
